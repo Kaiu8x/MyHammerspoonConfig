@@ -10,6 +10,7 @@ col = hs.drawing.color.x11
 
 -- Window management
 require("window-management")
+require("window-chooser")
 
 -- Debug log info to Hammerspoon Console
 function debuglog(text)
